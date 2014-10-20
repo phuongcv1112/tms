@@ -67,10 +67,10 @@ class DATABASE_CONFIG {
 	public $default = array(
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
-		'host' => 'ecomtree.com',
-		'login' => 'ecomtree_exam',
-		'password' => 'examx@X',
-		'database' => 'ecomtree_exam',
+		'host' => '10.197.8.59',
+		'login' => 'root',
+		'password' => '',
+		'database' => 'tms',
 		'prefix' => '',
 		//'encoding' => 'utf8',
 	);
